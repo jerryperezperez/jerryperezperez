@@ -3,6 +3,7 @@
 Hi, I’m a Computer Systems Engineering graduate with a focus on Artificial Intelligence, currently working as a Software Developer at Softtek (Banamex/Citibanamex projects).
 I have experience in backend development using Java and Spring Boot in production environments, and I’ve also worked with Python for data science and academic research.
 I enjoy solving real-world problems through clean, scalable code and thrive in collaborative, agile environments. Additionally, I’ve applied Python, Pandas, and NumPy in research projects related to data science and time-series forecasting.
+
 ---
 
 ## 💼 Experience Summary
