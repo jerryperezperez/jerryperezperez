@@ -66,6 +66,6 @@ I have experience in backend development using Java and Spring Boot in productio
 
 ## 📊 GitHub Stats
 
-![Gerardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=github_dark)
+![Gerardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jerryperezperez&show_icons=true&theme=github_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerryperezperez&layout=compact&theme=github_dark)
